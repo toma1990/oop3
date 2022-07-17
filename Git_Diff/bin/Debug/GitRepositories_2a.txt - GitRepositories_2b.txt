@@ -1,0 +1,43 @@
+Asterix marks changed words.
+
+1  | GitHub's collaborative approach to development depends on publishing commits from your local repository for other people to view, fetch, and update.
+2  | 
+3  | A remote URL is Git's fancy way of saying "the place where your code is stored." That URL could be your repository on GitHub, or another user's fork, or even on a completely different server.
+4  | 
+5* | You can only push to two types of URL* addresses: 
+6  | 
+7  | An HTTPS URL like https://github.com/user/repo.git
+8  | An SSH URL, like git@github.com:user/repo.git
+9  | Git associates a remote URL with a name, and your default remote is usually called origin.
+
+1  | GitHub's collaborative approach to development depends on publishing commits from your local repository for other people to view, fetch, and update.
+2  | 
+3  | A remote URL is Git's fancy way of saying "the place where your code is stored." That URL could be your repository on GitHub, or another user's fork, or even on a completely different server.
+4  | 
+5* | You can only push to two types of URL* 
+1  | GitHub's collaborative approach to development depends on publishing commits from your local repository for other people to view, fetch, and update.
+2  | 
+3  | A remote URL is Git's fancy way of saying "the place where your code is stored." That URL could be your repository on GitHub, or another user's fork, or even on a completely different server.
+4  | 
+5* | You can only push to two types of URL* addresses: 
+6  | 
+7  | An HTTPS URL like https://github.com/user/repo.git
+8  | An SSH URL, like git@github.com:user/repo.git
+9  | Git associates a remote URL with a name, and your default remote is usually called origin.
+
+1  | GitHub's collaborative approach to development depends on publishing commits from your local repository for other people to view, fetch, and update.
+
+2  | 
+
+3  | A remote URL is Git's fancy way of saying "the place where your code is stored." That URL could be your repository on GitHub, or another user's fork, or even on a completely different server.
+
+4  | 
+
+5* | You can only push to two types of URL* addresses: 
+6  | 
+
+7  | An HTTPS URL like https://github.com/user/repo.git
+
+8  | An SSH URL, like git@github.com:user/repo.git
+
+9  | Git associates a remote URL with a name, and your default remote is usually called origin.
